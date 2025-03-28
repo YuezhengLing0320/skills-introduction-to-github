@@ -1,5 +1,5 @@
 Welcome to my GitHub profile!
-# A first-levek heading
+# A first-level heading
 **this is bold text**;
 *this is italicized*
 
