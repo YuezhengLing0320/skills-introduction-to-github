@@ -3,6 +3,8 @@ Welcome to my GitHub profile!
 **this is bold text**;
 *this is italicized*
 
+but how to /n?
+
 ~this is mistaken~
 
 >this is quote
